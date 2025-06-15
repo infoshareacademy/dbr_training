@@ -1,1 +1,1 @@
-
+print("Witaj")
