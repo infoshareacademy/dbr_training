@@ -3,8 +3,4 @@
 
 # COMMAND ----------
 
-test
-
-# COMMAND ----------
-
-test2
+print("Jestem!")
